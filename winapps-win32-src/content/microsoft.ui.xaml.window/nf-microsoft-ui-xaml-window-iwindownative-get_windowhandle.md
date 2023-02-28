@@ -44,8 +44,6 @@ dev_langs:
 
 Retrieves the window handle (**[HWND](/windows/win32/winprog/windows-data-types)**) of the window represented by the object that implements [IWindowNative](/windows/windows-app-sdk/api/win32/microsoft.ui.xaml.window/nn-microsoft-ui-xaml-window-iwindownative).
 
-For more info, and code examples, see [Retrieve a window handle (HWND)](/windows/apps/develop/ui-input/retrieve-hwnd).
-
 ## -parameters
 
 ### -param hWnd
@@ -57,6 +55,8 @@ The window handle (**HWND**).
 If this method succeeds, it returns **S_OK**. Otherwise, it returns an **HRESULT** error code.
 
 ## -remarks
+
+For more info, and code examples, see [Retrieve a window handle (HWND)](/windows/apps/develop/ui-input/retrieve-hwnd).
 
 ## Examples
 
